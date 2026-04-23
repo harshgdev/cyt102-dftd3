@@ -1,0 +1,281 @@
+MATERIALS DATA ANALYSIS SUMMARY REPORT
+====================================================================================================
+Data root: /home/cyt101_07/sb_new/materials-data
+Blocks detected: ['d-block', 's-block']
+
+====================================================================================================
+BINARY — Delta_E Overview
+====================================================================================================
+  Total dip rows:          744
+  Unique chemsys:          52
+  Unique sources:          744
+  delta_E range:           [-1.617399  ..  -0.010812]
+  delta_E mean:            -0.174453
+  delta_E median:          -0.108322
+  Rows with delta_E >= -0.01: 0
+
+  Rows by block:
+    d-block: 652
+    s-block: 92
+
+  Rows by ligand:
+    O: 547
+    S: 197
+
+====================================================================================================
+BINARY — Top 20 Most Negative delta_E
+====================================================================================================
+  -1.617399  Mg-S                                 Mg149S_1185578_POSCAR  [s-block]
+  -1.605766  Ti-O                                 Ti3O_1245140_POSCAR  [d-block]
+  -1.602777  Ti-O                                 Ti3O_1245176_POSCAR  [d-block]
+  -1.531325  Ti-O                                 Ti3O_1244956_POSCAR  [d-block]
+  -1.391084  Ti-O                                 Ti2O_1245186_POSCAR  [d-block]
+  -1.381869  Ti-O                                 Ti2O_1245309_POSCAR  [d-block]
+  -1.377615  Ti-O                                 Ti2O_1245066_POSCAR  [d-block]
+  -1.350447  Ti-O                                 Ti2O_1245206_POSCAR  [d-block]
+  -1.337580  Ti-O                                 Ti2O_1244955_POSCAR  [d-block]
+  -1.084202  Nb-S                                 Nb14S5_683941_POSCAR  [d-block]
+  -1.010789  Li-O                                 Li2O_1245224_POSCAR  [s-block]
+  -0.977209  Li-O                                 Li2O_1245303_POSCAR  [s-block]
+  -0.955589  Li-O                                 Li2O_1245092_POSCAR  [s-block]
+  -0.936243  Li-O                                 Li2O_1245009_POSCAR  [s-block]
+  -0.877266  Ti-O                                 TiO_1245294_POSCAR  [d-block]
+  -0.872976  Ti-O                                 TiO_1244944_POSCAR  [d-block]
+  -0.866157  Ti-O                                 TiO_1245141_POSCAR  [d-block]
+  -0.864447  Ti-O                                 TiO_1244926_POSCAR  [d-block]
+  -0.849539  Ti-O                                 TiO_1245324_POSCAR  [d-block]
+  -0.723144  Zr-S                                 Zr9S2_27191_POSCAR  [d-block]
+
+====================================================================================================
+BINARY — Bottom 20 (Weakest Accepted Dips, closest to 0)
+====================================================================================================
+  -0.010812  Mg-O                                 MgO_1192043_POSCAR  [s-block]
+  -0.013227  Mg-O                                 MgO_1192189_POSCAR  [s-block]
+  -0.015608  V-O                                  V2O3_796380_POSCAR  [d-block]
+  -0.029545  Mn-O                                 Mn3O4_1193728_POSCAR  [d-block]
+  -0.030096  Mn-O                                 Mn3O4_1194100_POSCAR  [d-block]
+  -0.030650  Mn-O                                 Mn3O4_638270_POSCAR  [d-block]
+  -0.042522  Hf-O                                 HfO2_775757_POSCAR  [d-block]
+  -0.042889  Cs-O                                 Cs7O_561735_POSCAR  [s-block]
+  -0.049260  Hf-O                                 HfO2_1858_POSCAR  [d-block]
+  -0.051445  Ti-O                                 Ti2O_1215_POSCAR  [d-block]
+  -0.052256  K-O                                  K2O_998915_POSCAR  [s-block]
+  -0.052863  Ti-S                                 Ti3S2_1217073_POSCAR  [d-block]
+  -0.052947  Sr-O                                 SrO2_2763179_POSCAR  [s-block]
+  -0.052971  Sr-O                                 SrO2_1545805_POSCAR  [s-block]
+  -0.053089  V-O                                  V2O3_715514_POSCAR  [d-block]
+  -0.053311  Zr-S                                 Zr3S_1188005_POSCAR  [d-block]
+  -0.053933  Na-O                                 Na2O_755072_POSCAR  [s-block]
+  -0.054130  Co-O                                 CoO_19275_POSCAR  [d-block]
+  -0.054499  Ti-O                                 TiO2_1102591_POSCAR  [d-block]
+  -0.054695  Co-O                                 Co3O4_1271793_POSCAR  [d-block]
+
+====================================================================================================
+TERNARY — Delta_E Overview
+====================================================================================================
+  Total dip rows:          830
+  Unique chemsys:          168
+  Unique sources:          830
+  delta_E range:           [-0.765614  ..  -0.038275]
+  delta_E mean:            -0.132669
+  delta_E median:          -0.106087
+  Rows with delta_E >= -0.01: 0
+
+  Rows by block:
+    d-block: 762
+    s-block: 68
+
+  Rows by ligand:
+    O: 743
+    S: 87
+
+====================================================================================================
+TERNARY — Top 20 Most Negative delta_E
+====================================================================================================
+  -0.765614  Sc-Zr-O                              Zr25Sc6O59_686417_POSCAR  [d-block]
+  -0.673687  Ni-Nb-O                              Nb6Ni6O_541419_POSCAR  [d-block]
+  -0.645395  Hf-Re-S                              Hf9Re4S_1399219_POSCAR  [d-block]
+  -0.635059  Mn-Ni-O                              Mn_Ni9O10_2_758680_POSCAR  [d-block]
+  -0.571318  Mn-Ni-O                              Mn3_Ni17O20_2_758834_POSCAR  [d-block]
+  -0.565493  Ti-Ni-O                              Ti4Ni2O_540679_POSCAR  [d-block]
+  -0.550251  Ti-Ni-O                              Ti3Ni3O_504735_POSCAR  [d-block]
+  -0.548300  Ti-Mn-O                              Ti3Mn3O_504732_POSCAR  [d-block]
+  -0.537694  Ti-Ni-O                              Ti4Ni2O_1217223_POSCAR  [d-block]
+  -0.536739  Ti-Mn-O                              Ti4Mn2O_1217173_POSCAR  [d-block]
+  -0.527580  Ti-Y-O                               Y16Ti16O35_685259_POSCAR  [d-block]
+  -0.526448  Fe-Zr-S                              Zr6FeS2_1207526_POSCAR  [d-block]
+  -0.524857  Ni-Zr-O                              Zr4Ni2O_21602_POSCAR  [d-block]
+  -0.512075  Co-Zr-O                              Zr9Co3O2_1215381_POSCAR  [d-block]
+  -0.502760  Ti-Fe-O                              Ti4Fe2O_505361_POSCAR  [d-block]
+  -0.501970  Ti-Co-O                              Ti3Co3O_504734_POSCAR  [d-block]
+  -0.484041  Ti-Fe-O                              Ti4Fe2O_1217190_POSCAR  [d-block]
+  -0.461789  Ti-Fe-O                              Ti3Fe3O_27884_POSCAR  [d-block]
+  -0.450106  Ti-Y-O                               Y2Ti2O7_685370_POSCAR  [d-block]
+  -0.447931  Sc-Zr-O                              Zr3Sc4O12_532444_POSCAR  [d-block]
+
+====================================================================================================
+TERNARY — Bottom 20 (Weakest Accepted Dips, closest to 0)
+====================================================================================================
+  -0.038275  Co-Hf-O                              HfCoO3_753534_POSCAR  [d-block]
+  -0.039552  Mn-Hf-O                              HfMnO3_754657_POSCAR  [d-block]
+  -0.043047  Ni-Hf-O                              HfNiO3_1178219_POSCAR  [d-block]
+  -0.043374  Cr-Hf-O                              HfCrO3_756322_POSCAR  [d-block]
+  -0.051628  Ti-Fe-O                              Ti3Fe9O16_760003_POSCAR  [d-block]
+  -0.052838  Ti-V-S                               TiVS2_1216761_POSCAR  [d-block]
+  -0.054223  Ti-Fe-O                              Ti_FeO2_3_674221_POSCAR  [d-block]
+  -0.054292  Ti-V-O                               TiVO3_1216763_POSCAR  [d-block]
+  -0.054636  V-Cr-O                               VCrO3_1216392_POSCAR  [d-block]
+  -0.054786  Cr-Mn-O                              Mn5CrO12_1176453_POSCAR  [d-block]
+  -0.055353  Ti-Fe-S                              Ti3FeS6_16335_POSCAR  [d-block]
+  -0.055931  Li-K-S                               KLiS_8430_POSCAR  [s-block]
+  -0.056123  Ti-Nb-O                              TiNb2O7_1216971_POSCAR  [d-block]
+  -0.056205  Li-K-S                               KLiS_722181_POSCAR  [s-block]
+  -0.056270  Mn-Fe-O                              Mn2FeO4_1307551_POSCAR  [d-block]
+  -0.056466  Be-Sr-O                              SrBe3O4_27791_POSCAR  [s-block]
+  -0.056923  Fe-Y-O                               Y_FeO2_2_557783_POSCAR  [d-block]
+  -0.057108  Na-Be-O                              Na2Be2O3_755789_POSCAR  [s-block]
+  -0.057115  Co-Ni-O                              Co3NiO8_752738_POSCAR  [d-block]
+  -0.057274  Mn-Co-O                              MnCo3O8_757029_POSCAR  [d-block]
+
+====================================================================================================
+TERNARY — Top 20 Metal Pairs (most negative min delta_E)
+====================================================================================================
+  -0.765614  Sc-Zr                           ligand=O
+  -0.673687  Nb-Ni                           ligand=O
+  -0.645395  Hf-Re                           ligand=S
+  -0.635059  Mn-Ni                           ligand=O
+  -0.565493  Ni-Ti                           ligand=O
+  -0.548300  Mn-Ti                           ligand=O
+  -0.527580  Ti-Y                            ligand=O
+  -0.526448  Fe-Zr                           ligand=S
+  -0.524857  Ni-Zr                           ligand=O
+  -0.512075  Co-Zr                           ligand=O
+  -0.502760  Fe-Ti                           ligand=O
+  -0.501970  Co-Ti                           ligand=O
+  -0.436577  Cu-Ti                           ligand=O
+  -0.432676  Hf-Mo                           ligand=S
+  -0.430056  Hf-Mo                           ligand=O
+  -0.406604  Hf-Sc                           ligand=O
+  -0.404762  Sc-Ti                           ligand=O
+  -0.393973  Fe-Y                            ligand=O
+  -0.378159  Ba-Na                           ligand=O
+  -0.357313  Hf-Re                           ligand=O
+
+====================================================================================================
+d-block / binary — Packing Efficiency vs delta_E
+====================================================================================================
+  Merged rows:             652
+  Unique chemsys:          35
+  Overall corr(packing_fraction, delta_E): -0.4107
+  packing_fraction range:  [0.2004  ..  1.1516]
+  Chemsys with within-corr: 31
+  Strongest negative within-corr: Pd-O  r=-1.0000
+  Strongest positive within-corr: Co-S  r=1.0000
+
+====================================================================================================
+d-block / ternary — Packing Efficiency vs delta_E
+====================================================================================================
+  Merged rows:             762
+  Unique chemsys:          138
+  Overall corr(packing_fraction, delta_E): -0.4365
+  packing_fraction range:  [0.2658  ..  1.0128]
+  Chemsys with within-corr: 88
+  Strongest negative within-corr: Mo-Hf-S  r=-1.0000
+  Strongest positive within-corr: Hf-Re-S  r=1.0000
+
+====================================================================================================
+s-block / binary — Packing Efficiency vs delta_E
+====================================================================================================
+  Merged rows:             92
+  Unique chemsys:          17
+  Overall corr(packing_fraction, delta_E): 0.0463
+  packing_fraction range:  [0.2699  ..  1.3294]
+  Chemsys with within-corr: 15
+  Strongest negative within-corr: Cs-S  r=-1.0000
+  Strongest positive within-corr: Li-S  r=0.9996
+
+====================================================================================================
+s-block / ternary — Packing Efficiency vs delta_E
+====================================================================================================
+  Merged rows:             68
+  Unique chemsys:          30
+  Overall corr(packing_fraction, delta_E): 0.0429
+  packing_fraction range:  [0.5020  ..  1.1888]
+  Chemsys with within-corr: 19
+  Strongest negative within-corr: Li-Ba-O  r=-1.0000
+  Strongest positive within-corr: Rb-Cs-O  r=1.0000
+
+====================================================================================================
+d-block / binary — Grouped delta_E Statistics Summary
+====================================================================================================
+
+  Ligand O:
+    Categories:        19
+    Best min delta_E:  -1.605766  [Ti]
+    Worst min delta_E: -0.095623  [Mo]
+    Mean of mins:      -0.409726
+    Mean of medians:   -0.160994
+
+  Ligand S:
+    Categories:        16
+    Best min delta_E:  -1.084202  [Nb]
+    Worst min delta_E: -0.088213  [Co]
+    Mean of mins:      -0.343658
+    Mean of medians:   -0.139176
+
+====================================================================================================
+d-block / ternary — Grouped delta_E Statistics Summary
+====================================================================================================
+
+  Ligand O:
+    Categories:        95
+    Best min delta_E:  -0.765614  [Sc-Zr]
+    Worst min delta_E: -0.038275  [Co-Hf]
+    Mean of mins:      -0.219815
+    Mean of medians:   -0.121017
+
+  Ligand S:
+    Categories:        43
+    Best min delta_E:  -0.645395  [Hf-Re]
+    Worst min delta_E: -0.055353  [Fe-Ti]
+    Mean of mins:      -0.173112
+    Mean of medians:   -0.147281
+
+====================================================================================================
+s-block / binary — Grouped delta_E Statistics Summary
+====================================================================================================
+
+  Ligand O:
+    Categories:        10
+    Best min delta_E:  -1.010789  [Li]
+    Worst min delta_E: -0.052971  [Sr]
+    Mean of mins:      -0.433309
+    Mean of medians:   -0.286275
+
+  Ligand S:
+    Categories:        7
+    Best min delta_E:  -1.617399  [Mg]
+    Worst min delta_E: -0.058492  [Ba]
+    Mean of mins:      -0.331661
+    Mean of medians:   -0.320406
+
+====================================================================================================
+s-block / ternary — Grouped delta_E Statistics Summary
+====================================================================================================
+
+  Ligand O:
+    Categories:        26
+    Best min delta_E:  -0.378159  [Ba-Na]
+    Worst min delta_E: -0.056466  [Be-Sr]
+    Mean of mins:      -0.148388
+    Mean of medians:   -0.112471
+
+  Ligand S:
+    Categories:        4
+    Best min delta_E:  -0.101071  [K-Na]
+    Worst min delta_E: -0.056205  [K-Li]
+    Mean of mins:      -0.078768
+    Mean of medians:   -0.078733
+
+====================================================================================================
+END OF REPORT
